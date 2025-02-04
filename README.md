@@ -39,7 +39,7 @@ A politically agnostic Linux distribution, without any AI 🐄💩
 * [gnu coreutils](https://www.gnu.org/software/coreutils/coreutils.html) [[_wikipedia_](https://en.wikipedia.org/wiki/List_of_GNU_Core_Utilities_commands)] (_or [toybox](http://www.landley.net/toybox/)_)
 * [util-linux](https://en.wikipedia.org/wiki/Util-linux)
 
-## Core Develpment Tools
+## Core Development Tools
 * [clang](https://clang.llvm.org/) ([_wikipedia_](https://en.wikipedia.org/wiki/Clang))
 * [llvm](https://llvm.org/) ([_wikipedia_](https://en.wikipedia.org/wiki/LLVM))
 * [gnu make](https://www.gnu.org/software/make/) ([_wikipedia_](https://en.wikipedia.org/wiki/Make_(software)))
