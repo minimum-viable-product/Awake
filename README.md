@@ -15,6 +15,7 @@ A politically agnostic Linux distribution, without any AI 🐄💩
 * [ArchWiki](https://wiki.archlinux.org/title/Main_page)
   - [General Recommendations](https://wiki.archlinux.org/title/General_recommendations)
   - [Installation Guide](https://wiki.archlinux.org/title/Installation_guide)
+  - [Man Pages](https://man.archlinux.org/)
 * Standards
   - [Filesystem Hierarchy Standard (FHS) 3.0](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html) [[_wikipedia_](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)]
   - [POSIX.1-2024](https://pubs.opengroup.org/onlinepubs/9799919799/)
