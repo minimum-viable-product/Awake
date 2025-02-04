@@ -21,7 +21,7 @@ A politically agnostic Linux distribution, without any AI 🐄💩
   - [Linux Standard Base (LSB)](https://linuxfromscratch.org/lfs/view/stable/prologue/standards.html) - lfs
 
 ## Desktop Environment
-* freedesktop.org - [[website](https://www.freedesktop.org/wiki/)] [[_wikipedia_](https://en.wikipedia.org/wiki/Freedesktop.org)]
+* [freedesktop.org](https://www.freedesktop.org/wiki/) [[_wikipedia_](https://en.wikipedia.org/wiki/Freedesktop.org)]
 * LXDE - [[_archwiki_](https://wiki.archlinux.org/title/LXDE)] [[_github_](https://github.com/lxde)] [[_wikipedia_](https://en.wikipedia.org/wiki/LXDE))]
 * GTK+ 2
   - [reference manual](https://www.manpagez.com/html/gtk2/gtk2-2.24.29/) - v2.24 @ manpagez.com
