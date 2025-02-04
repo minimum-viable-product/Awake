@@ -6,12 +6,10 @@ A politically agnostic Linux distribution, without any AI 🐄💩
   - [From Power Up To Bash Prompt](https://tldp.org/HOWTO/From-PowerUp-To-Bash-Prompt-HOWTO.html) ([_pdf_](https://tldp.org/HOWTO/pdf/From-PowerUp-To-Bash-Prompt-HOWTO.pdf))
   - [Introduction to Linux](https://tldp.org/LDP/intro-linux/html/index.html)
   - [Pocket Linux Guide](https://tldp.org/LDP/Pocket-Linux-Guide/html/index.html)
-  - [Software Building HOWTO](https://tldp.org/HOWTO/Software-Building-HOWTO.html)
   - [System Administrator's Guide](https://tldp.org/LDP/sag/html/index.html)
 * [Linux From Scratch](https://www.linuxfromscratch.org/)
   - [LFS current/stable](https://linuxfromscratch.org/lfs/view/stable/)
   - [LFS current/multilib](https://www.linuxfromscratch.org/~thomas/multilib/index.html)
-  - [Standards](https://linuxfromscratch.org/lfs/view/stable/prologue/standards.html)
   - [LFS 6.3](https://linuxfromscratch.org/museum/lfs-museum/6.3/LFS-BOOK-6.3-HTML/) (_2007_)
   - [BLFS current/stable](https://linuxfromscratch.org/blfs/view/stable/)
 * [ArchWiki](https://wiki.archlinux.org/title/Main_page)
@@ -20,6 +18,7 @@ A politically agnostic Linux distribution, without any AI 🐄💩
 * Standards
   - [Filesystem Hierarchy Standard (FHS) 3.0](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html) [[_wikipedia_](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)]
   - [POSIX.1-2024](https://pubs.opengroup.org/onlinepubs/9799919799/)
+  - [Linux Standard Base (LSB)](https://linuxfromscratch.org/lfs/view/stable/prologue/standards.html) - lfs
 
 ## Desktop Environment
 * freedesktop.org - [[website](https://www.freedesktop.org/wiki/)] [[_wikipedia_](https://en.wikipedia.org/wiki/Freedesktop.org)]
@@ -32,6 +31,7 @@ A politically agnostic Linux distribution, without any AI 🐄💩
 
 ## Packaging
 * [Beginner's Guide to Installing from Source](https://moi.vonos.net/linux/beginners-installing-from-source/)
+* [Software Building HOWTO](https://tldp.org/HOWTO/Software-Building-HOWTO.html) - tldp
 * zstd - [[_github_](https://github.com/facebook/zstd)] [[_wikipedia_](https://en.wikipedia.org/wiki/Zstd)]
 
 ## Core Utilities
