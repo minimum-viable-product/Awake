@@ -32,6 +32,7 @@ A politically agnostic Linux distribution, without any AI 🐄💩
 ## Packaging
 * [Beginner's Guide to Installing from Source](https://moi.vonos.net/linux/beginners-installing-from-source/)
 * [Software Building HOWTO](https://tldp.org/HOWTO/Software-Building-HOWTO.html) - tldp
+* [Rationale for Packages](https://linuxfromscratch.org/lfs/view/stable/prologue/package-choices.html) - lfs
 * zstd - [[_github_](https://github.com/facebook/zstd)] [[_wikipedia_](https://en.wikipedia.org/wiki/Zstd)]
 
 ## Core Utilities
