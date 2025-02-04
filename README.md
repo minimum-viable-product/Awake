@@ -1,2 +1,2 @@
-# Awake
-Awake Linux - Politically agnostic linux distribution, without any AI BS
+# 🐧 Awake Linux
+A politically agnostic Linux distribution, without any AI 🐄💩
