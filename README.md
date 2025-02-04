@@ -43,6 +43,7 @@ A politically agnostic Linux distribution, without any AI 🐄💩
 * [clang](https://clang.llvm.org/) ([_wikipedia_](https://en.wikipedia.org/wiki/Clang))
 * [llvm](https://llvm.org/) ([_wikipedia_](https://en.wikipedia.org/wiki/LLVM))
 * [gnu make](https://www.gnu.org/software/make/) ([_wikipedia_](https://en.wikipedia.org/wiki/Make_(software)))
+* [git](https://git-scm.com/doc) ([_manpage_](https://www.kernel.org/pub/software/scm/git/docs/)) ([_wikipedia_](https://en.wikipedia.org/wiki/Git))
 
 ## Linux Kernel
 * [kernel.org](https://kernel.org/)
