@@ -7,7 +7,7 @@ A politically agnostic Linux distribution, without any AI 🐄💩
   - [Introduction to Linux](https://tldp.org/LDP/intro-linux/html/index.html)
   - [Pocket Linux Guide](https://tldp.org/LDP/Pocket-Linux-Guide/html/index.html)
   - [System Administrator's Guide](https://tldp.org/LDP/sag/html/index.html)
-* [Linux From Scratch](https://www.linuxfromscratch.org/)
+* [Linux From Scratch](https://www.linuxfromscratch.org/) [[_wikipedia_](https://en.wikipedia.org/wiki/Linux_From_Scratch)]
   - [LFS current/stable](https://linuxfromscratch.org/lfs/view/stable/)
   - [LFS current/multilib](https://www.linuxfromscratch.org/~thomas/multilib/index.html)
   - [LFS 6.3](https://linuxfromscratch.org/museum/lfs-museum/6.3/LFS-BOOK-6.3-HTML/) (_2007_)
