@@ -3,7 +3,6 @@ A politically agnostic Linux distribution, without any AI 🐄💩
 
 ## Knowledge
 * [The Linux Documentation Project](https://tldp.org/) - _All the classic oldskool essentials!_
-  - [From Power Up To Bash Prompt](https://tldp.org/HOWTO/From-PowerUp-To-Bash-Prompt-HOWTO.html) ([_pdf_](https://tldp.org/HOWTO/pdf/From-PowerUp-To-Bash-Prompt-HOWTO.pdf))
   - [Introduction to Linux](https://tldp.org/LDP/intro-linux/html/index.html)
   - [Pocket Linux Guide](https://tldp.org/LDP/Pocket-Linux-Guide/html/index.html)
   - [System Administrator's Guide](https://tldp.org/LDP/sag/html/index.html)
@@ -46,6 +45,11 @@ A politically agnostic Linux distribution, without any AI 🐄💩
 * [llvm](https://llvm.org/) ([_wikipedia_](https://en.wikipedia.org/wiki/LLVM))
 * [gnu make](https://www.gnu.org/software/make/) ([_wikipedia_](https://en.wikipedia.org/wiki/Make_(software)))
 * [git](https://git-scm.com/doc) ([_manpage_](https://www.kernel.org/pub/software/scm/git/docs/)) ([_wikipedia_](https://en.wikipedia.org/wiki/Git))
+
+## Booting
+* [Booting process of Linux](https://en.wikipedia.org/wiki/Booting_process_of_Linux)
+* [From Power Up To Bash Prompt](https://tldp.org/HOWTO/From-PowerUp-To-Bash-Prompt-HOWTO.html) ([_pdf_](https://tldp.org/HOWTO/pdf/From-PowerUp-To-Bash-Prompt-HOWTO.pdf))
+* [init](https://en.wikipedia.org/wiki/Init)
 
 ## Linux Kernel
 * [kernel.org](https://kernel.org/)
