@@ -16,9 +16,10 @@ A politically agnostic Linux distribution, without any AI 🐄💩
   - [Installation Guide](https://wiki.archlinux.org/title/Installation_guide)
   - [Man Pages](https://man.archlinux.org/)
 * Standards
-  - [Filesystem Hierarchy Standard (FHS) 3.0](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html) [[_wikipedia_](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)]
-  - [POSIX.1-2024](https://pubs.opengroup.org/onlinepubs/9799919799/)
+  - [Filesystem Hierarchy Standard (FHS) 3.0](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html) - linux foundation [[_wikipedia_](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)]
+  - [POSIX.1-2024](https://pubs.opengroup.org/onlinepubs/9799919799/) - opengroup
   - [Linux Standard Base (LSB)](https://linuxfromscratch.org/lfs/view/stable/prologue/standards.html) - lfs
+  - [Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) - wikipedia
 
 ## Desktop Environment
 * [freedesktop.org](https://www.freedesktop.org/wiki/) [[_wikipedia_](https://en.wikipedia.org/wiki/Freedesktop.org)]
@@ -38,7 +39,7 @@ A politically agnostic Linux distribution, without any AI 🐄💩
 ## Core Utilities
 * [gnu bash](https://www.gnu.org/software/bash/) [[_wikipedia_](https://en.wikipedia.org/wiki/Bash_(Unix_shell))]
 * [gnu coreutils](https://www.gnu.org/software/coreutils/coreutils.html) [[_wikipedia_](https://en.wikipedia.org/wiki/List_of_GNU_Core_Utilities_commands)] (_or [toybox](http://www.landley.net/toybox/)_)
-* [util-linux](https://en.wikipedia.org/wiki/Util-linux)
+* [util-linux](https://en.wikipedia.org/wiki/Util-linux) - wikipedia
 
 ## Core Development Tools
 * [clang](https://clang.llvm.org/) ([_wikipedia_](https://en.wikipedia.org/wiki/Clang))
@@ -48,8 +49,8 @@ A politically agnostic Linux distribution, without any AI 🐄💩
 
 ## Booting
 * [Booting process of Linux](https://en.wikipedia.org/wiki/Booting_process_of_Linux)
-* [From Power Up To Bash Prompt](https://tldp.org/HOWTO/From-PowerUp-To-Bash-Prompt-HOWTO.html) ([_pdf_](https://tldp.org/HOWTO/pdf/From-PowerUp-To-Bash-Prompt-HOWTO.pdf))
-* [init](https://en.wikipedia.org/wiki/Init)
+* [From Power Up To Bash Prompt HOWTO](https://tldp.org/HOWTO/From-PowerUp-To-Bash-Prompt-HOWTO.html) - tldp ([_pdf_](https://tldp.org/HOWTO/pdf/From-PowerUp-To-Bash-Prompt-HOWTO.pdf))
+* [init](https://en.wikipedia.org/wiki/Init) - wikipedia
 
 ## Linux Kernel
 * [kernel.org](https://kernel.org/)
