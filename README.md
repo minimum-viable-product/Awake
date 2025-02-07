@@ -1,5 +1,16 @@
 # 🐧 Awake Linux
-A politically agnostic Linux distribution, without any AI 🐄💩
+_A politically agnostic Linux distribution, without any AI 🐄💩_
+
+---
+
+* Linux From Scratch (LFS) is the initial starting point.
+  - Available security updates / bug fixes applied.
+  - Custom script(s) based on manual instructions (not necessarily ALFS, but possibly).
+* System to be migrated to clang/llvm instead of / in addition to gnu toolchain.
+  - Because clang/llvm toolchain offers better static analysis features.
+  - Because clang/llvm toolchain generally results in better performance.
+
+---
 
 ## Knowledge
 * [The Linux Documentation Project](https://tldp.org/) - _All the classic oldskool essentials!_
