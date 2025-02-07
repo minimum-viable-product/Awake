@@ -49,6 +49,10 @@ _A politically agnostic Linux distribution, without any AI 🐄💩_
 
 ## Core Utilities
 * [gnu bash](https://www.gnu.org/software/bash/) [[_wikipedia_](https://en.wikipedia.org/wiki/Bash_(Unix_shell))]
+  - [The Shell Scripting Tutorial](https://www.shellscript.sh/) - shellscript.sh
+  - [Bourne Shell Scripting](https://en.wikibooks.org/wiki/Bourne_Shell_Scripting) - wikibooks
+  - [BASH Programming - Introduction HOW-TO](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) - tldp
+  - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/index.html) - tldp
 * [gnu coreutils](https://www.gnu.org/software/coreutils/coreutils.html) [[_wikipedia_](https://en.wikipedia.org/wiki/List_of_GNU_Core_Utilities_commands)] (_or [toybox](http://www.landley.net/toybox/)_)
 * [util-linux](https://en.wikipedia.org/wiki/Util-linux) - wikipedia
 
