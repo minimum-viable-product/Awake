@@ -1,4 +1,4 @@
-# 🐧 Awake Linux
+# 🐧 _Awake! Linux_
 _A politically agnostic Linux distribution, without any AI 🐄💩_
 
 ---
