@@ -9,6 +9,9 @@ _A politically agnostic Linux distribution, without any AI 🐄💩_
 * System to be migrated to clang/llvm instead of / in addition to gnu toolchain.
   - Because clang/llvm toolchain offers better static analysis features.
   - Because clang/llvm toolchain generally results in better performance.
+* Follow standards as much as reasonably possible.
+  - POSIX
+  - FHS
 
 ---
 
