@@ -3,6 +3,10 @@ _A politically agnostic Linux distribution, without any AI 🐄💩_
 
 ---
 
+* Fiercely independent & honest open-source software. _(The FUTO Pledge)_
+  - We will never sell out.
+  - We will never abuse our users.
+  - We will always be transparently devoted to making delightful software.
 * Linux From Scratch (LFS) is the initial starting point.
   - Available security updates / bug fixes applied.
   - Custom script(s) based on manual instructions (not necessarily ALFS, but possibly).
