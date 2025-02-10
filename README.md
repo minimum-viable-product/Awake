@@ -38,6 +38,8 @@ _A politically agnostic Linux distribution, without any AI 🐄💩_
   - [POSIX.1-2024](https://pubs.opengroup.org/onlinepubs/9799919799/) - opengroup
   - [Linux Standard Base (LSB)](https://linuxfromscratch.org/lfs/view/stable/prologue/standards.html) - lfs
   - [Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) - wikipedia
+* Miscellaneous
+  - [We are destroying software](https://antirez.com/news/145) - antirez
 
 ## Desktop Environment
 * [freedesktop.org](https://www.freedesktop.org/wiki/) [[_wikipedia_](https://en.wikipedia.org/wiki/Freedesktop.org)]
