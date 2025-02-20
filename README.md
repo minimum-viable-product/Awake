@@ -39,6 +39,7 @@ _A politically agnostic Linux distribution, without any AI 🐄💩_
   - [Linux Standard Base (LSB)](https://linuxfromscratch.org/lfs/view/stable/prologue/standards.html) - lfs
   - [Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) - wikipedia
 * Miscellaneous
+  - [Handmade Manifesto](https://handmade.network/manifesto)
   - [We are destroying software](https://antirez.com/news/145) - antirez
 
 ## Desktop Environment
