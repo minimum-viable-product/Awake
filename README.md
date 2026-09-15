@@ -35,7 +35,7 @@ _A politically agnostic Linux distribution, without any AI 🐄💩_
   - [Man Pages](https://man.archlinux.org/)
 * Standards
   - [Filesystem Hierarchy Standard (FHS) 3.0](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html) - linux foundation [[_wikipedia_](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)]
-  - [POSIX.1-2024](https://pubs.opengroup.org/onlinepubs/9799919799/) - opengroup
+  - [POSIX.1-2017](https://pubs.opengroup.org/onlinepubs/9699919799.2018edition/) - opengroup
     - [Shell / Utilities](https://upload.wikimedia.org/wikipedia/commons/b/b7/POSIX_Utilities.pdf) - wikimedia pdf
   - [Linux Standard Base (LSB)](https://linuxfromscratch.org/lfs/view/stable/prologue/standards.html) - lfs
   - [Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) - wikipedia
