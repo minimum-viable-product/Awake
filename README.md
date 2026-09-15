@@ -63,6 +63,7 @@ _A politically agnostic Linux distribution, without any AI 🐄💩_
   - [The Shell Scripting Tutorial](https://www.shellscript.sh/) - shellscript.sh
   - [Bourne Shell Scripting](https://en.wikibooks.org/wiki/Bourne_Shell_Scripting) - wikibooks
   - [BASH Programming - Introduction HOW-TO](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) - tldp
+  - [Shell Scripting Primer](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html) - apple
   - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/index.html) - tldp
 * [gnu coreutils](https://www.gnu.org/software/coreutils/coreutils.html) [[_wikipedia_](https://en.wikipedia.org/wiki/List_of_GNU_Core_Utilities_commands)] (_or [toybox](http://www.landley.net/toybox/)_)
 * [util-linux](https://en.wikipedia.org/wiki/Util-linux) - wikipedia
