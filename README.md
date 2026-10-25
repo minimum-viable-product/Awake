@@ -52,6 +52,9 @@ _A politically agnostic Linux distribution, without any AI 🐄💩_
   - [source code](https://download.gnome.org/sources/gtk%2B/2.24/) [[_github_](https://github.com/GNOME/gtk/tree/2.24.33)] - v2.24
   - [archwiki](https://wiki.archlinux.org/title/GTK)
   - [gtkmm](https://download.gnome.org/sources/gtkmm/2.24/) - v2.24
+    - [tutorial](https://www.mrbrklyn.com/resources/programming-with-gtkmm.pdf) - v2.4 pdf
+    - [reference](https://sources.debian.org/data/main/g/gtkmm2.4/1:2.24.5-6/docs/reference/html/index.html) - v2.24
+    - [blfs](https://www.linuxfromscratch.org/blfs/view/11.1/x/gtkmm2.html)
 
 ## Packaging
 * [Beginner's Guide to Installing from Source](https://moi.vonos.net/linux/beginners-installing-from-source/)
