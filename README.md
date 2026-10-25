@@ -45,6 +45,7 @@ _A politically agnostic Linux distribution, without any AI 🐄💩_
 
 ## Desktop Environment
 * [freedesktop.org](https://www.freedesktop.org/wiki/) [[_wikipedia_](https://en.wikipedia.org/wiki/Freedesktop.org)]
+  - [specifications](https://specifications.freedesktop.org/)
 * LXDE - [[_archwiki_](https://wiki.archlinux.org/title/LXDE)] [[_github_](https://github.com/lxde)] [[_wikipedia_](https://en.wikipedia.org/wiki/LXDE))]
 * GTK+ 2
   - [reference manual](https://www.manpagez.com/html/gtk2/gtk2-2.24.29/) - v2.24 @ manpagez.com
