@@ -13,7 +13,7 @@ _A politically agnostic Linux distribution, without any AI 🐄💩_
 * System to be migrated to clang/llvm instead of / in addition to gnu toolchain.
   - Because clang/llvm toolchain offers better static analysis features.
   - Because clang/llvm toolchain generally results in better performance.
-* Follow standards as much as reasonably possible.
+* Follow standards as much as is reasonable.
   - POSIX
   - FHS
 
@@ -36,9 +36,9 @@ _A politically agnostic Linux distribution, without any AI 🐄💩_
 * Standards
   - [Filesystem Hierarchy Standard (FHS) 3.0](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html) - linux foundation [[_wikipedia_](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)]
   - [POSIX.1-2017](https://pubs.opengroup.org/onlinepubs/9699919799.2018edition/) - opengroup
-    - [Shell / Utilities](https://upload.wikimedia.org/wikipedia/commons/b/b7/POSIX_Utilities.pdf) - wikimedia pdf
+    - [Shell / Utilities](https://upload.wikimedia.org/wikipedia/commons/archive/b/b7/20240815131330%21POSIX_Utilities.pdf) - wikimedia pdf
   - [Linux Standard Base (LSB)](https://linuxfromscratch.org/lfs/view/stable/prologue/standards.html) - lfs
-  - [ACPI](https://www.intel.com/content/www/us/en/developer/topic-technology/open/acpica/overview.html) - intel
+  - [ACPI & UEFI](https://uefi.org/specifications) - specs
   - [Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) - wikipedia
 * Miscellaneous
   - [Handmade Manifesto](https://handmade.network/manifesto)
